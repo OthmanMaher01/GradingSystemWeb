@@ -1,0 +1,12 @@
+
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ù¿š¥º0
+|
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(„øõıÿÿÿÿ
+{
+java:S1989!"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¶íòÛÿÿÿÿÿ8è¿š¥º0
+c
+java:S1989,"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ê¿š¥º0
+|
+java:S19891"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(„øõıÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ñ•Û»

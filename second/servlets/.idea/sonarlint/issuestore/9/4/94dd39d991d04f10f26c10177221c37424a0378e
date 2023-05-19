@@ -1,0 +1,23 @@
+
+P
+java:S3518!":Make sure "size" can't be zero before doing this division.(¡“üÜ
+X
+java:S1117"=Rename "resultSet" which hides the field declared at line 13.(£šÈåıÿÿÿÿ
+V
+java:S1659"@Declare "avg" and all following declarations on a separate line.(–ğĞÔ
+S
+java:S1117"=Rename "resultSet" which hides the field declared at line 13.(‹«¶ë
+S
+java:S1117%"=Rename "resultSet" which hides the field declared at line 13.(‹«¶ë
+S
+java:S1117."=Rename "resultSet" which hides the field declared at line 13.(‹«¶ë
+:
+java:S16599"$Declare "median" on a separate line.(üˆ—
+Z
+java:S11178"=Rename "resultSet" which hides the field declared at line 13.(‹«¶ë8†Ê°¥º0
+>
+java:S14819"(Remove this unused "sum" local variable.(üˆ—
+V
+java:S1128"4Remove this unused import 'servlets.models.Student'.(åØá¯ıÿÿÿÿ8«˜ª¥º0
+H
+java:S1068"-Remove this unused "resultSet" private field.(¿ˆ°úÿÿÿÿ

@@ -1,0 +1,15 @@
+
+G
+java:S5411Z"*Use the primitive boolean expression here.(££û‚8‰á…ê»0
+W
+java:S3518m":Make sure "size" can't be zero before doing this division.(¡“üÜ8ñé…ê»0
+F
+java:S3010")Remove this assignment of "serverSocket".(ÍÂ¥›8¾ê…ê»0
+F
+java:S3010"$Remove this assignment of "scanner".(À’·êøÿÿÿÿ8¾ê…ê»0
+a
+java:S2147."DCombine this catch with the one at line 44, which has the same body.(É®£8øê…ê»0
+b
+java:S1659c"@Declare "max" and all following declarations on a separate line.(Ï·÷‘ÿÿÿÿÿ8©ë…ê»0
+M
+java:S1068	"+Remove this unused "scanner" private field.(²øÉìüÿÿÿÿ8Âë…ê»0

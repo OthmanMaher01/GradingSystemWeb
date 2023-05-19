@@ -1,0 +1,34 @@
+
+s	java:S135b"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+E
+java:S54111"*Use the primitive boolean expression here.(„ùÃ—ÿÿÿÿÿ
+@
+java:S5411="*Use the primitive boolean expression here.(££û‚
+E
+java:S5411J"*Use the primitive boolean expression here.(ÍËäŽýÿÿÿÿ
+>
+java:S3010"#Remove this assignment of "socket".(¡¨Ž¶ýÿÿÿÿ
+D
+java:S3010".Remove this assignment of "inputStreamReader".(›…Üé
+I
+java:S3010".Remove this assignment of "objectInputStream".(Ï¡„„ÿÿÿÿÿ
+>
+java:S3010"(Remove this assignment of "printWriter".(„¡ÑÍ
+F
+java:S3010"+Remove this assignment of "bufferedReader".(°Ý¢§øÿÿÿÿ
+?
+java:S3010"$Remove this assignment of "scanner".(À’·êøÿÿÿÿ
+B
+java:S3010"'Remove this assignment of "isLoggedIn".(«ùà‘úÿÿÿÿ
+Q
+java:S2696""6Make the enclosing method "static" or remove this set.(«ùà‘úÿÿÿÿ
+L
+java:S2696#"6Make the enclosing method "static" or remove this set.(¹ãÊ²
+Q
+java:S2696>"6Make the enclosing method "static" or remove this set.(Å¿òˆÿÿÿÿÿ
+Q
+java:S2696@"6Make the enclosing method "static" or remove this set.(Þ³ðíýÿÿÿÿ
+V
+java:S1659x"@Declare "max" and all following declarations on a separate line.(àÍ¸ˆ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Êž­—¹0
